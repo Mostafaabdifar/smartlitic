@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mostafaabdifar/smartlitic.git"
+    "url": "git+https://github.com/smartlitic-org/smartlitic_sdk.git"
   },
   "keywords": [
     "smartlitic"
@@ -16,7 +16,7 @@
   "author": "mostafa abdifar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mostafaabdifar/smartlitic/issues"
+    "url": "https://github.com/smartlitic-org/smartlitic_sdk/issues"
   },
-  "homepage": "https://github.com/Mostafaabdifar/smartlitic#readme"
+  "homepage": "https://github.com/smartlitic-org/smartlitic_sdk#readme"
 }
